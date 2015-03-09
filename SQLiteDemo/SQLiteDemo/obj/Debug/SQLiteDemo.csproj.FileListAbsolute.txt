@@ -1,8 +1,0 @@
-D:\Projects\SQLiteCSharpwithDemo\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.exe
-D:\Projects\SQLiteCSharpwithDemo\SQLiteDemo\SQLiteDemo\bin\Debug\SQLiteDemo.pdb
-D:\Projects\SQLiteCSharpwithDemo\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.csprojResolveAssemblyReference.cache
-D:\Projects\SQLiteCSharpwithDemo\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.Form1.resources
-D:\Projects\SQLiteCSharpwithDemo\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.Properties.Resources.resources
-D:\Projects\SQLiteCSharpwithDemo\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.csproj.GenerateResource.Cache
-D:\Projects\SQLiteCSharpwithDemo\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.exe
-D:\Projects\SQLiteCSharpwithDemo\SQLiteDemo\SQLiteDemo\obj\Debug\SQLiteDemo.pdb
